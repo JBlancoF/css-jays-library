@@ -1,6 +1,6 @@
 {
   "name": "jays-css",
-  "version": "1.0.0",
+  "version": "1.0.0-beta.2",
   "description": "Minimal CSS framework",
   "main": "main/jays-css.sass",
   "scripts": {
